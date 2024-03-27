@@ -1,0 +1,6 @@
+#vscode
+.vscode/
+
+#wsl output
+boot_out.txt
+System\ Volume\ Information
